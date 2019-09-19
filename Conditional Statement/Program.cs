@@ -84,8 +84,9 @@ namespace Conditional_Statement
                     }
                     
                      numbersArray[x] = Grades;
+                    
                 }
-
+                Console.WriteLine(numbersArray);
                 Console.ReadKey();
             }
             catch
